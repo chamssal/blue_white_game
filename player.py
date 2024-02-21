@@ -25,3 +25,6 @@ while pygame.mixer.music.get_busy():
     pygame.time.Clock().tick(10)
 ## 좀더 빠르게, 문제 구성을 어떻게 할까?
 ## pygame으로 ui
+    
+
+## 이거 푸시 해볼게
