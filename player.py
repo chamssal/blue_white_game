@@ -28,3 +28,4 @@ while pygame.mixer.music.get_busy():
     
 
 ## 이거 푸시 해볼게
+## i'm home working
